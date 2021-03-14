@@ -2,7 +2,7 @@
 Sistem pakar generik untuk menghasilkan aturan dan membuat hubungan antara entri dan basis pengetahuan. Diimplementasikan menggunakan Forward Chaining dan Backward chaining. clauses harus terkait dengan basis Pengetahuan atau tidak akan masuk akal saat dijalankan. Parser dibuat untuk mengurai file json dan membuat objek pada waktu proses.
 
 ----------------------------------
-### Example
+### Result
 * Backward Chaining
 ```console
 Chankya >>> Tell me some features of this bird?
