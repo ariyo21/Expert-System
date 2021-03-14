@@ -1,4 +1,4 @@
-## Expert System 
+## Expert Systemm
 * Generic expert system to generate rules and create relation between entries and knowledge base.
 * Implemented using Forward Chaining and Backward chaining.
 * Require to input well-formatted json files that correspond to the example in ```data``` folder
